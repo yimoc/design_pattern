@@ -1,4 +1,4 @@
-package pattern.behavioral.nullobject;
+package pattern.behavioral.nullobject.exam1;
 
 public class Dog implements Animal {
 
